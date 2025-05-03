@@ -39,7 +39,7 @@ export default function EventCalender() {
 
       <div className='flex flex-col  gap-4 '>
         <div className="flex justify-between items-center mt-4">
-          <h1 className='font-semibold text-xl'>Events</h1>
+          <h1 className='font-semibold text-xl px-5'>Events</h1>
           <Image src="/moreDark.png" height={20} width={20} alt="events more"/>
         </div> 
 
